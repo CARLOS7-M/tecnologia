@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>proyecto_investigativo</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>1E2995</corfondo>
+        <corbanda>FF0000</corbanda>
+        <cornavega>FF0000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+              <cabeceira>La Tecnología</cabeceira>
+              <imaxe posx="0" posy="-5">tecnologia-1.jpg</imaxe>
+              <texto posx="60" posy="33" ancho="200" largo="200"><![CDATA[
+<p align="left">
+<font color="#EFEFEF" face="Arial" size="20"><b>La tecnología es el conjunto de conocimientos, habilidades, herramientas y métodos que los seres humanos desarrollan para resolver problemas, mejorar su calidad de vida y transformar su entorno. Abarca una amplia gama de disciplinas, desde la informática y la ingeniería hasta la biotecnología y las comunicaciones. La tecnología no solo incluye dispositivos y maquinaria, sino también procesos y sistemas que permiten la creación, almacenamiento, intercambio y uso de información. Además, su evolución impacta en aspectos sociales, económicos y culturales, moldeando la manera en que interactuamos y vivimo.</b><br>
+</font></p>
+]]></texto>
+              <ctexto>DBDBDB</ctexto>
+              <chtml>1</chtml>
+        </paxina>
+        <paxina id="2" >
+              <tipo>10</tipo>
+              <pregunta res="v">una computadora es un dispositivo para jugar ?</pregunta>
+              <pregunta res="f">un telefono no se usa para hablar ?</pregunta>
+              <pregunta res="v">internet es un lugar donde se encuentra informacion ?</pregunta>
+              <pregunta res="f">una contraseña no protege nuestra informacion ?</pregunta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>3</tipo>
+              <imaxe>47355697_1570118986956.jpg</imaxe>
+              <filas>4</filas>
+              <columnas>4</columnas>
+              <reixa>0</reixa>
+            <forma>1</forma>
+        </paxina>
+    </libro>
+</lim>
